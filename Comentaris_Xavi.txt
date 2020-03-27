@@ -1,0 +1,8 @@
+========
+20200327
+========
+Hola Isaac,
+
+- copia l'arxiu index.html fora del directori 'Pràctica'
+- esborra el directori 'Pràctica'
+- prova a executar el codi JS des d'un arxiu extern
