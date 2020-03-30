@@ -6,3 +6,15 @@ Hola Isaac,
 - copia l'arxiu index.html fora del directori 'Pràctica'
 - esborra el directori 'Pràctica'
 - prova a executar el codi JS des d'un arxiu extern
+
+========
+20200330
+========
+
+- la comanda prompt no l'hem vist. Per mostrar text per pantalla hem d'utilitzar la comanda document.write
+- declara les variables
+	var primera = 10;
+	var segona = 20;
+	...
+
+  després, utilitza els comparadors, i en funció del resultat de la comparació, mostra un text o un altre, amb la comanda document.write
